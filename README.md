@@ -44,5 +44,3 @@ When ready for production, execute the following command to compile and minify t
 npm run build
 
 Feel free to explore and extend this Pokevite template to build powerful and responsive Vue 3 applications with the help of Vite.
-
-Basta copiar e colar este código no seu arquivo README.md.
